@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/HelloGit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -134,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569246045201</updated>
-      <workItem from="1569246046503" duration="3029000" />
+      <workItem from="1569246046503" duration="3521000" />
     </task>
     <task id="LOCAL-00001" summary="testgit">
       <created>1569246373555</created>
@@ -171,11 +171,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569248960169</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="testgit">
+      <created>1569249097118</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569249097118</updated>
+    </task>
+    <task id="LOCAL-00007" summary="testgit">
+      <created>1569249165963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569249165963</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3029000" />
+    <option name="totallyTimeSpent" value="3521000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,8 +214,8 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32991204" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49932975" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49932975" weight="0.32991204" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49932975" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50067025" side_tool="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -232,7 +246,7 @@
     <entry file="file://$PROJECT_DIR$/src/HelloGit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
         </state>
       </provider>
     </entry>

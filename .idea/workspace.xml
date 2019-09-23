@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bbd0b28-5d2f-43c0-971a-7369814c8210" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9bbd0b28-5d2f-43c0-971a-7369814c8210" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569246045201</updated>
-      <workItem from="1569246046503" duration="1608000" />
+      <workItem from="1569246046503" duration="1867000" />
     </task>
     <task id="LOCAL-00001" summary="testgit">
       <created>1569246373555</created>
@@ -154,11 +152,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569247566023</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="testgit">
+      <created>1569247866627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569247866627</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1608000" />
+    <option name="totallyTimeSpent" value="1867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -175,7 +180,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.32991204" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49932975" weight="0.32991204" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50067025" side_tool="true" weight="0.32991204" />
+      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />

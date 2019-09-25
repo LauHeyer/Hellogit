@@ -1,2 +1,2 @@
 # Hellogit
-### The local project of github was pushed for the first time.
+### The local project of github is pushed for the first time.
